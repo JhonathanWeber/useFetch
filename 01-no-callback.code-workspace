@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "01-no-callback"
+		},
+		{
+			"path": "02-use-callback"
+		},
+		{
+			"path": "03-use-callbackonerror"
+		},
+		{
+			"path": "04-callback-hell"
+		},
+		{
+			"path": "05-use-promisse"
+		},
+		{
+			"path": "06-use-promisse.all"
+		},
+		{
+			"path": "07-promise-with-async-await"
+		}
+	]
+}
